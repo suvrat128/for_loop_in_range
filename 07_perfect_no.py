@@ -6,7 +6,7 @@ n = int(input())
 
 summ = 0
 
-for i in range(1,n):# for i in range(1,n//2+1)  it will do code optimazation:
+for i in range(1,n):#or for i in range(1,n//2+1)  it will do code optimazation:
     if n%i == 0:
         summ+=i
 if summ == n:
