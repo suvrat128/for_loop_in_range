@@ -7,6 +7,7 @@ Syntax:
           statements of for loop 
 
 Example: 
+print number between the range of 1 to 10
         
       For I in range(1,10,1): 
           print(I) 
