@@ -10,6 +10,8 @@ Note:
 2. If we provide only one value for range it will consider it as a ending limits and stats from 0 
 
 
+
+
 For loop in the range: 
 1. For loop with the range is used whenever we wants to perform some operation based on number limits. 
 
